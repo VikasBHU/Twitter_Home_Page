@@ -1,0 +1,10 @@
+.but{
+  width: 160px;
+  height: 40px;
+  border: none;
+  border-radius: 30px;
+  font-weight: bolder;
+  color: aliceblue;
+  background-color: rgb(7, 89, 240);
+  cursor: pointer ;
+}
